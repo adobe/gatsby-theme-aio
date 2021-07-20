@@ -50,7 +50,7 @@
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "@spectrum-css/accordion": "3.0.1",
-    "@spectrum-css/actionbutton": "1.0.1",
+    "@spectrum-css/actionbutton": "1.0.3",
     "@spectrum-css/assetlist": "3.0.1",
     "@spectrum-css/breadcrumb": "3.0.1",
     "@spectrum-css/button": "3.0.1",
