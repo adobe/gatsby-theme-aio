@@ -3177,10 +3177,10 @@
   dependencies:
     "@spectrum-css/vars" "^3.0.1"
 
-"@spectrum-css/icon@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/icon/-/icon-3.0.1.tgz#e300a6fc353c85c6b5d6e7a364408a940c31b177"
-  integrity sha512-cGFtIrcQ/7tthdkHK1npuEFiCdYVHLqwmLxghUYQw8Tb8KgJaw3OBO1tpjgsUizexNgu26BjVRIbGxNWuBXIHQ==
+"@spectrum-css/icon@3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/icon/-/icon-3.0.3.tgz#5c612822380927087aebd526855d82ed2c3e2cba"
+  integrity sha512-hyloKOejPCXhP3MBNsm3SjR9j8xT1R1S19p32KW/0Qhj+VMUtfyEPmevyFptpn7wcovQccdl/vZVIVDuML/imw==
 
 "@spectrum-css/inlinealert@1.0.0":
   version "1.0.0"
