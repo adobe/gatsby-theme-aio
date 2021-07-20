@@ -14626,10 +14626,10 @@ pend@~1.2.0:
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
   integrity sha1-elfrVQpng/kRUzH89GY9XI4AelA=
 
-penpal@^5.3.0:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/penpal/-/penpal-5.3.0.tgz#1a6afc56d6f257189e3d99650f58651a913db3ce"
-  integrity sha512-ezGckenx66j3RShl4nZiswjgDxyoDaJJ9tLBp46UvVxlA9MlIPF6hWfuppw1AzaDKgUULU1i44QFOuI4SXY/mg==
+penpal@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/penpal/-/penpal-6.0.1.tgz#4bbe93daa810053e37637ead10a6731f2ba5568d"
+  integrity sha512-8o/qaGIykdCWEZUXkjvwTE/feqYCisUwfqRvN88DDpp9LXqe5iEkjITGvnazeGfAc5pPXrJwFbXb1CYpTuh58w==
 
 perfect-scrollbar@^1.4.0:
   version "1.5.1"
