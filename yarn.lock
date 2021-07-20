@@ -3182,10 +3182,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/icon/-/icon-3.0.1.tgz#e300a6fc353c85c6b5d6e7a364408a940c31b177"
   integrity sha512-cGFtIrcQ/7tthdkHK1npuEFiCdYVHLqwmLxghUYQw8Tb8KgJaw3OBO1tpjgsUizexNgu26BjVRIbGxNWuBXIHQ==
 
-"@spectrum-css/inlinealert@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/inlinealert/-/inlinealert-1.0.0.tgz#cc37a459340460b78fa6f5d4ae97300d19b63ce3"
-  integrity sha512-wF+ELOI77zsa1ctc/RybNcA1DaKkS8eHBV894jHhxw8y79esAYxEZjiCaK0uPAC/WbNuVCVfAYHmwcuvO6ke2w==
+"@spectrum-css/inlinealert@1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/inlinealert/-/inlinealert-1.1.1.tgz#d5175aa987d223fba75e883dfbab8369f4f4766f"
+  integrity sha512-qkrmEN432V1kJSVpFcnZTEYeppbNvJF1gvZsYlp6GjqqiIgc9W6/eE1VKnMNoZ6da2+s/kRkB6j37126DWuXXQ==
 
 "@spectrum-css/link@3.1.1":
   version "3.1.1"
