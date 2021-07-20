@@ -73,7 +73,7 @@
     "@spectrum-css/textfield": "3.0.1",
     "@spectrum-css/tooltip": "3.0.1",
     "@spectrum-css/typography": "3.0.1",
-    "@spectrum-css/underlay": "2.0.9",
+    "@spectrum-css/underlay": "2.0.10",
     "@spectrum-css/vars": "3.0.1",
     "@spectrum-css/well": "3.0.1",
     "algolia-html-extractor": "^0.0.1",

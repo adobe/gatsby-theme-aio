@@ -3252,10 +3252,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/typography/-/typography-3.0.1.tgz#957dafd9b18c314fa37a88b549042ba2175f5b3f"
   integrity sha512-XyR68K2rIZX3u4j7HhMLOqLVHDJZcapp3XUqgYMzMWccBFleA0qPxKpfRWqVIA5DzTMSIw0wEcZPYKWFZ2e6dA==
 
-"@spectrum-css/underlay@2.0.9":
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/underlay/-/underlay-2.0.9.tgz#fc10f971d1325cc844b727e6260f7217844060e8"
-  integrity sha512-X86xd0PG4QobmUyXA90BFGnyygaI8kW64dA4ysf4z0cOvUWjNbAAl3a/DB/WRyrnp63Zqv83T/cgNbetagTbWg==
+"@spectrum-css/underlay@2.0.10":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/underlay/-/underlay-2.0.10.tgz#8b75b646605a311850f6620caa18d4996cd64ed7"
+  integrity sha512-PmsmkzeGD/rY4pp3ILXHt9w8BW7uaEqXe08hQRS7rGki7wqCpG4mE0/8N3yEcA3QxWQclmG9gdkg5uz6wMmYzA==
 
 "@spectrum-css/vars@3.0.1":
   version "3.0.1"
