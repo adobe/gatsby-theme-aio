@@ -3197,10 +3197,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/menu/-/menu-3.0.1.tgz#2a376f991acc24e12ec892bb6b9db2650fc41fbe"
   integrity sha512-Qjg0+1O0eC89sb/bRFq2AGnQ8XqhVy23TUXHyffNM8qdcMssnlny3QmhzjURCZKvx/Y5UytCpzhedPQqSpQwZg==
 
-"@spectrum-css/modal@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/modal/-/modal-3.0.1.tgz#613a6b83d0330a4d38db41a98090800751c56d8d"
-  integrity sha512-F7D99F3cjDGT9DM9sogx/p49jrNYT7a1J6TUoqV73wUf+0gP+dTsskBOo9jB8VbUE+POQPjiDLB+SWLp6iBB+w==
+"@spectrum-css/modal@3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/modal/-/modal-3.0.2.tgz#58b6621cab65f90788d310374f40df1f7090473f"
+  integrity sha512-YnIivJhoaao7Otu+HV7sgebPyFbO6sd/oMvTN/Rb2wwgnaMnIIuIRdGandSrcgotN2uNgs+P0knG6mv/xA1/dg==
 
 "@spectrum-css/picker@1.0.1":
   version "1.0.1"
