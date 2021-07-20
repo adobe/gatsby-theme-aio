@@ -69,7 +69,7 @@
     "@spectrum-css/search": "3.0.1",
     "@spectrum-css/sidenav": "3.0.1",
     "@spectrum-css/table": "3.0.1",
-    "@spectrum-css/tabs": "3.0.1",
+    "@spectrum-css/tabs": "3.0.3",
     "@spectrum-css/textfield": "3.0.1",
     "@spectrum-css/tooltip": "3.0.1",
     "@spectrum-css/typography": "3.0.1",
