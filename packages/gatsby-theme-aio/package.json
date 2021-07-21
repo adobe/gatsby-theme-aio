@@ -84,7 +84,7 @@
     "elasticlunr": "^0.9.5",
     "gatsby-plugin-algolia": "^0.20.1",
     "gatsby-plugin-emotion": "^6.0.0",
-    "gatsby-plugin-layout": "^2.0.0",
+    "gatsby-plugin-layout": "^2.10.0",
     "gatsby-plugin-mdx": "^2.5.0",
     "gatsby-plugin-mdx-embed": "^0.0.19",
     "gatsby-plugin-preact": "^5.0.0",
